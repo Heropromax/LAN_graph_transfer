@@ -1,0 +1,3 @@
+ground
+0
+sky为天空端 ground 为地面端 数字为相机号
